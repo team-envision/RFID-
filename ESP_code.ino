@@ -1,4 +1,3 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
 // Smart Attendance System with Google Sheets and LCD Display
 #include <Wire.h>
 #include <SPI.h>
